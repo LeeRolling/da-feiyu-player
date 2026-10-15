@@ -6,3 +6,5 @@ push.ps1
 set-token.ps1
 推送.bat
 设置口令.bat
+gcm-diagnose.log
+*.log
