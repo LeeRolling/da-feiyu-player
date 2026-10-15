@@ -2,3 +2,5 @@
 *.mp4
 .DS_Store
 Thumbs.db
+push.ps1
+推送.bat
