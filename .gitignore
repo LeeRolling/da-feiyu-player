@@ -3,6 +3,6 @@
 .DS_Store
 Thumbs.db
 push.ps1
+set-token.ps1
 推送.bat
-设置口令.ps1
 设置口令.bat
